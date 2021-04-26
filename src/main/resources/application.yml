@@ -17,4 +17,4 @@ server:
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://localhost:8083/eureka
+      defaultZone: https://heroku-gatewa2.herokuapp.com/eureka
